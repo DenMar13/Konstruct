@@ -92,6 +92,9 @@ header {
 .nav > li > a:hover {
     color: #00A4E5;
 }
+#about {
+    color: #00A4E5;
+}
 .middle-section {
     display: flex;
     flex-direction: column;
